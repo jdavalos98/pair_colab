@@ -1,3 +1,6 @@
 class Collaborator
-  def initialize(name, mod)
+
+  attr_reader
+  
+  def initialize(name, mod, age)
 end
