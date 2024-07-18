@@ -1,8 +1,10 @@
 class Collaborator
-
-  attr_reader
-
+  
   def initialize(name, mod, age)
-    @gobbledygook
+    @name = name
+    @mod = mod
+    @age = age
+    pets = []
+# one more thing
   end
 end
