@@ -1,6 +1,10 @@
 class Collaborator
-
-  attr_reader
   
   def initialize(name, mod, age)
+    @name = name
+    @mod = mod
+    @age = age
+    pets = []
+
+  end
 end
