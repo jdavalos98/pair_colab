@@ -1,3 +1,3 @@
 class Collaborator
-  def initialize(name, mod)
+  def initialize(name)
 end
