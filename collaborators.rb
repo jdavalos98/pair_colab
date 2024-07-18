@@ -5,6 +5,6 @@ class Collaborator
     @mod = mod
     @age = age
     pets = []
-
+# one more thing
   end
 end
